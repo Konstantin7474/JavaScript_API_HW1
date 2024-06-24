@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.containerTable{
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    align-content: center;
+    justify-content: space-between;
+    border: 1px solid red;
+
+}
+
+.club{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+}
